@@ -1,2 +1,2 @@
-ello Bash
+Hello Bash
 hi, my name is...
